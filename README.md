@@ -1,2 +1,4 @@
 # DevLog
-My little diary
+This is my little diary
+
+## 2025
