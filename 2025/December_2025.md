@@ -1,7 +1,16 @@
 # December 2025
 
-## 24.12
-Today i work on my game snake. i add tail and find that moust simple solution are moust beautiful. only swap 1 line off code and it works.
+## 24.12.2025
+* **Work on Snake game**: Started implementing the tail logic.
+* **Discovery**: Realized that the simplest solution is often the most elegant. 
+* **Implementation**: Managed to fix the tail movement by swapping just one line of code. It now follows the head perfectly using list manipulation.
 
-## 26.12
-Today i add game over screen, tail colide with snake, optimize code, snake and tail isn't on the same tile.
+## 25.12.2025
+* **Day off**: Taking a break to recharge and enjoy the holidays. No code changes today.
+
+## 26.12.2025
+* **Added Game Over screen** and death logic.
+* **Implemented tail collision** (self-collision detection).
+* **Code optimization** and cleanup.
+* **Improved apple spawn logic**: Ensured the apple and snake/tail never occupy the same tile.
+* **GitHub Actions**: Implemented automated version testing for multi-platform compatibility.
