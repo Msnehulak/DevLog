@@ -14,3 +14,10 @@
 * **Code optimization** and cleanup.
 * **Improved apple spawn logic**: Ensured the apple and snake/tail never occupy the same tile.
 * **GitHub Actions**: Implemented automated version testing for multi-platform compatibility.
+
+## 27.12.2025
+* **Today nothing**
+
+## 28.12.2025
+* **Add** start menu
+* **Update** end screan
